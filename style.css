@@ -1,0 +1,89 @@
+h1{
+    font-family: 'Dosis', sans-serif;
+    font-size: 32px;
+    line-height: 40px;
+    font-weight: normal;
+
+        
+    margin-bottom: 32px;
+}
+
+#Geral{
+    max-width: 100vh;
+    border:  1px;
+    margin: 0 auto ;
+}
+
+h1 span{
+    font-weight: bold;
+}
+
+p, #footer{
+    color: #3F3D56;
+    font-size: 14px;
+    line-height: 28px;
+}
+
+
+body{
+    font-family: 'Open sans', sans-serif;
+
+    text-align: center;
+    margin-bottom: 0px;
+    
+
+
+}
+
+#woman{
+    width: 592px;
+    margin:0 auto 72px;
+
+    margin-bottom: 88px;
+}
+
+#wonan img{
+    margin-bottom: 72px;
+}
+
+span{
+    color: #ee24ff;
+}
+
+#footer, a{
+    color: #3F3D56;
+    font-size: 15px;
+    line-height: 16px;
+
+    font-family: 'Open sans', sans-serif;
+    font-weight: bold;
+    
+
+}
+
+#footer a + a{
+    margin-left: 42px;
+}
+
+#line{
+    width: 569px;
+    height: 0px;
+    margin: 0 auto 8px;
+
+
+    border: 1px solid #eceff2;
+    
+}
+
+#wave{
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+    right: 0px; 
+    
+    margin-bottom: -20px;
+
+    height: 60px;
+}
+
+/*Corrigir #wave com #footer, a rolagem cobre o footer por isso o erro*/
